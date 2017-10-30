@@ -17,9 +17,17 @@ Containing many topic but mostly programming.
 ### Functional Programming
 - [In-depth Functional Programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) : FP, C++
 
+### Scripting
+- [Splitting Strings](https://chriszetter.com/blog/2017/10/29/splitting-strings/): Python, Ruby, Awk
+
 ### Edification<sup id='a1'>[1](#f1)</sup>
 - [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/)
 - [At Some Point, You Have to Eat The Broccoli](https://www.farnamstreetblog.com/2016/10/eat-the-broccoli/)
+- [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
+
+### Software Craftmanship
+- [Something Rotten In The Core](http://www.codersnotes.com/notes/something-rotten-in-the-core/): UNIX philosophy, API, Software Design
+
 
 <b id='f1'>1</b> [https://www.merriam-webster.com/dictionary/edify](https://www.merriam-webster.com/dictionary/edify) [↩](#a1)
 
