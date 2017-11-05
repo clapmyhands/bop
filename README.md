@@ -29,7 +29,6 @@ Containing many topic but mostly programming.
 - [Something Rotten In The Core](http://www.codersnotes.com/notes/something-rotten-in-the-core/): UNIX philosophy, API, Software Design
 
 
-<b id='f1'>1</b> [https://www.merriam-webster.com/dictionary/edify](https://www.merriam-webster.com/dictionary/edify) [↩](#a1)
 
 ## Podcast
 
@@ -40,3 +39,15 @@ Containing many topic but mostly programming.
 
 ### Interview
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://youtu.be/YJZCUhxNCv8) : Interview Prep
+
+### Edification<sup id='a1'>[1](#f1)</sup>
+- [John Cleese on Creativity in Management](https://youtu.be/Pb5oIIPO62g): Creativity, Management
+
+## Screencast
+- [Vim Casts](http://vimcasts.org/episodes/)
+  - [Swapping two regions of text with exchange.vim](http://vimcasts.org/episodes/swapping-two-regions-of-text-with-exchange-vim/) 
+  - [Operating on search matches using gn](http://vimcasts.org/episodes/operating-on-search-matches-using-gn/)
+
+---
+
+<b id='f1'>1</b> [https://www.merriam-webster.com/dictionary/edify](https://www.merriam-webster.com/dictionary/edify) [↩](#a1)
