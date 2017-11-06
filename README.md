@@ -19,6 +19,7 @@ Containing many topic but mostly programming.
 
 ### Scripting
 - [Splitting Strings](https://chriszetter.com/blog/2017/10/29/splitting-strings/): Python, Ruby, Awk
+- [Seven habits of effective text editing](http://www.moolenaar.net/habits.html): Vim
 
 ### Edification<sup id='a1'>[1](#f1)</sup>
 - [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/)
@@ -28,6 +29,8 @@ Containing many topic but mostly programming.
 ### Software Craftmanship
 - [Something Rotten In The Core](http://www.codersnotes.com/notes/something-rotten-in-the-core/): UNIX philosophy, API, Software Design
 
+### Company Growth
+- [Finding Great Developers](https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/): Recruitment
 
 
 ## Podcast
