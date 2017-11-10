@@ -22,9 +22,11 @@ Containing many topic but mostly programming.
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html): Vim
 
 ### Edification<sup id='a1'>[1](#f1)</sup>
-- [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/)
+- [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/): Code Review
 - [At Some Point, You Have to Eat The Broccoli](https://www.farnamstreetblog.com/2016/10/eat-the-broccoli/)
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
+- [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/): Code Review
+- [How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/): Code Review
 
 ### Software Craftmanship
 - [Something Rotten In The Core](http://www.codersnotes.com/notes/something-rotten-in-the-core/): UNIX philosophy, API, Software Design
