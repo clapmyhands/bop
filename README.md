@@ -27,6 +27,8 @@ Containing many topic but mostly programming.
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
 - [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/): Code Review
 - [How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/): Code Review
+- [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/): Mentoring
+- [Reality has a surprising amount of detail](http://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail)
 
 ### Software Craftmanship
 - [Something Rotten In The Core](http://www.codersnotes.com/notes/something-rotten-in-the-core/): UNIX philosophy, API, Software Design
@@ -52,6 +54,9 @@ Containing many topic but mostly programming.
 - [Vim Casts](http://vimcasts.org/episodes/)
   - [Swapping two regions of text with exchange.vim](http://vimcasts.org/episodes/swapping-two-regions-of-text-with-exchange-vim/) 
   - [Operating on search matches using gn](http://vimcasts.org/episodes/operating-on-search-matches-using-gn/)
+
+## Others
+- [Xiph: A Digital Media Primer for Geeks](https://xiph.org/video/vid1.shtml): Audio, Video, History
 
 ---
 
