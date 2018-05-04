@@ -7,6 +7,8 @@ List of stuff that I've found interesting.
 
 Kinda like a finding a gem inbetween gravel. Or as I like to put it, the **Bottom of Pandora's box**.
 
+I know, I know. Cheesy and probably unfitting but let me enjoy my inner chuuni.
+
 Containing many topic but mostly programming.
 
 ## Articles
@@ -38,6 +40,8 @@ Containing many topic but mostly programming.
 
 
 ## Podcast
+### Movies
+- [Bill Simmons podcast: Michael B. Jordan](https://soundcloud.com/the-bill-simmons-podcast/ep-31-michael-b-jordan-1) : Creed, Rocky, Michael B. Jordan
 
 ## Videos
 ### C++
@@ -54,6 +58,8 @@ Containing many topic but mostly programming.
 - [Vim Casts](http://vimcasts.org/episodes/)
   - [Swapping two regions of text with exchange.vim](http://vimcasts.org/episodes/swapping-two-regions-of-text-with-exchange-vim/) 
   - [Operating on search matches using gn](http://vimcasts.org/episodes/operating-on-search-matches-using-gn/)
+
+- [Destroy All Software: From Scratch](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch): Vim, Introduction
 
 ## Others
 - [Xiph: A Digital Media Primer for Geeks](https://xiph.org/video/vid1.shtml): Audio, Video, History
