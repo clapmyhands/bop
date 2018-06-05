@@ -13,6 +13,11 @@ Containing many topic but mostly programming.
 
 ## Articles
 
+### Specific Problem Solving
+
+*   **Network**
+    - [Figma blog: Rate limiting](https://blog.figma.com/an-alternative-approach-to-rate-limiting-f8a06cf7c94c): Network Policy, Rate limit
+
 ### General Problem Solving
 - [The XY Problem](http://xyproblem.info/)
 
