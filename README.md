@@ -53,6 +53,9 @@ Containing many topic but mostly programming.
 - [What Has My Compiler Done for Me Lately? Unbolting the Compiler's Lid](https://youtu.be/bSkpMdDe4g4) : C++, Compiler, Assembly
 - [Learning and Teaching Modern C++](https://youtu.be/fX2W3nNjJIo): C++, Learning, Teaching, Modern C++
 
+### Platform
+- [The Container Revolution: Reflections After the First Decade ~ Bryan Cantrill](https://youtu.be/xXWaECk9XqM) : Container
+
 ### Interview
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://youtu.be/YJZCUhxNCv8) : Interview Prep
 
