@@ -7,9 +7,30 @@ List of stuff that I've found interesting.
 
 Kinda like a finding a gem inbetween gravel. Or as I like to put it, the **Bottom of Pandora's box**.
 
-I know, I know. Cheesy and probably unfitting but let me enjoy my inner chuuni.
+I know, I know. Cheesy, corny, and probably unfitting but let me enjoy my inner chuuni.
 
 Containing many topic but mostly programming.
+
+---
+- [Articles](#articles)
+  - [Specific Problem Solving](#specific-problem-solving)
+  - [General Problem Solving](#general-problem-solving)
+  - [Functional Programming](#functional-programming)
+  - [Scripting](#scripting)
+  - [Edification](#edification)
+  - [Software Craftmanship](#software-craftmanship)
+  - [Company Growth](#company-growth)
+- [Podcast](#podcast)
+  - [Movies](#movies)
+- [Videos](#videos)
+  - [C++](#c)
+  - [Platform](#platform)
+  - [Interview](#interview)
+  - [Edification](#edification-1)
+- [Screencast](#screencast)
+- [Others](#others)
+
+---
 
 ## Articles
 
@@ -28,7 +49,7 @@ Containing many topic but mostly programming.
 - [Splitting Strings](https://chriszetter.com/blog/2017/10/29/splitting-strings/): Python, Ruby, Awk
 - [Seven habits of effective text editing](http://www.moolenaar.net/habits.html): Vim
 
-### Edification<sup id='a1'>[1](#f1)</sup>
+### Edification
 - [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/): Code Review
 - [At Some Point, You Have to Eat The Broccoli](https://www.farnamstreetblog.com/2016/10/eat-the-broccoli/)
 - [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
@@ -59,7 +80,7 @@ Containing many topic but mostly programming.
 ### Interview
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://youtu.be/YJZCUhxNCv8) : Interview Prep
 
-### Edification<sup id='a1'>[1](#f1)</sup>
+### Edification
 - [John Cleese on Creativity in Management](https://youtu.be/Pb5oIIPO62g): Creativity, Management
 
 ## Screencast
@@ -71,7 +92,3 @@ Containing many topic but mostly programming.
 
 ## Others
 - [Xiph: A Digital Media Primer for Geeks](https://xiph.org/video/vid1.shtml): Audio, Video, History
-
----
-
-<b id='f1'>1</b> [https://www.merriam-webster.com/dictionary/edify](https://www.merriam-webster.com/dictionary/edify) [↩](#a1)
