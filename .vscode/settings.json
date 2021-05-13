@@ -11,7 +11,7 @@
     "files.watcherExclude": {
         "**/node_modules": true
     },
-    "foam.edit.linkReferenceDefinitions": "withoutExtensions",
+    "foam.edit.linkReferenceDefinitions": "off",
     "pasteImage.path": "${projectRoot}/attachments",
     "pasteImage.showFilePathConfirmInputBox": true,
     "markdown.extension.toc.slugifyMode": "github",
