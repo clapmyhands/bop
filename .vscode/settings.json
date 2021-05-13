@@ -12,7 +12,7 @@
         "**/node_modules": true
     },
     "foam.edit.linkReferenceDefinitions": "off",
-    "pasteImage.path": "${projectRoot}/attachments",
+    "pasteImage.path": "${projectRoot}/docs/attachments",
     "pasteImage.showFilePathConfirmInputBox": true,
     "markdown.extension.toc.slugifyMode": "github",
     "markdown.extension.toc.levels": "2..6"
