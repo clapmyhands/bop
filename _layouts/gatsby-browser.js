@@ -1,3 +1,3 @@
-import 'prism-themes/themes/prism-nord.css'
+import 'prism-themes/themes/prism-vsc-dark-plus.css'
 
 import './src/styles/main.css'

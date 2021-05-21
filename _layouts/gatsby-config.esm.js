@@ -28,7 +28,15 @@ export const plugins = [
           options: {
             ignoreFileExtensions: ['md', 'mdx'],
           },
-        });
+        })
+        
+        defaultPluginMdx.options.gatsbyRemarkPlugins.push({
+          resolve: 'gatsby-remark-prismjs',
+          options: {
+            noInlineHighlight: true,
+          },
+        })
+
         return defaultPluginMdx;
       },
     },
