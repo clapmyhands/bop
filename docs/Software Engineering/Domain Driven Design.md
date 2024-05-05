@@ -1,3 +1,9 @@
+---
+title: Domain Driven Design
+type: article
+tags: architecture compsci
+---
+
 designing aggregate:
 https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_1.pdf
 https://www.dddcommunity.org/wp-content/uploads/files/pdf_articles/Vernon_2011_2.pdf

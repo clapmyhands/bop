@@ -1,12 +1,10 @@
 ---
+title: Flaky Test
 type: article
-keywords: 
-tags: test flaky-test
+tags: testing flaky-test
 ---
 
-# Tests that sometimes failed
-
-link: [https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail]
+[Tests that sometimes fail - flaky test tips](https://samsaffron.com/archive/2019/05/15/tests-that-sometimes-fail)
 
 - [1. Definition](#1-definition)
 - [2. Background](#2-background)

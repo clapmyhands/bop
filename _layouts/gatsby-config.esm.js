@@ -10,7 +10,7 @@ export const plugins = [
   {
     resolve: `gatsby-theme-kb`,
     options: {
-      rootNote: "overview",
+      rootNote: "overview.md",
       contentPath: `${__dirname}/../docs/`,
       ignore: [
         "**/_layouts/**",
@@ -19,7 +19,9 @@ export const plugins = [
         "**/.vscode/**",
         "**/.cache/**",
         "**/.foam/**",
+        "**/README.md",
       ],
+      wikiLinkLabelTemplate: '[{{title}}]',
       // this is an option for extending `gatsby-plugin-mdx` options inside `gatsby-theme-kb`,
       // so you can have your relative referenced files served, e.g. '../assets/img.png'.
       getPluginMdx(defaultPluginMdx) {
@@ -37,7 +39,11 @@ export const plugins = [
           },
         })
 
-        return defaultPluginMdx;
+        // add math support
+        defaultPluginMdx.options.remarkPlugins.push(require('remark-math'))
+        if (!defaultPluginMdx.options.rehypePlugins) defaultPluginMdx.options.rehypePlugins = []
+        defaultPluginMdx.options.rehypePlugins.push(require('rehype-katex'))
+        return defaultPluginMdx
       },
     },
   },

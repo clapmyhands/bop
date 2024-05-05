@@ -1,3 +1,9 @@
+---
+title: Hexagonal Architecture
+type: article
+tags: architecture compsci
+---
+
 https://julien-topcu.medium.com/decoupling-your-technical-code-from-your-business-logic-with-the-hexagonal-architecture-hexarch-b4da7ba62079
 
 like an onion/layered hexagon, put your domain logic in the innermost part and make it agnostic to the implementation detail.

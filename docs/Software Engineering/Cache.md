@@ -1,13 +1,7 @@
 ---
+title: Cache
 type: article
-keywords: cache
-tags: cache usage-pattern
----
-
-# Cache
-
-Note Created: 2021-05-22
-
+tags: cache usage-pattern compsci
 ---
 
 - [Usage Pattern](#usage-pattern)

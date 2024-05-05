@@ -3,14 +3,10 @@
 - [Articles](#articles)
   - [Specific Problem Solving](#specific-problem-solving)
     - [Network](#network)
-  - [General Problem Solving](#general-problem-solving)
-  - [Functional Programming](#functional-programming)
   - [Scripting](#scripting)
   - [Edification](#edification)
   - [Software Craftmanship](#software-craftmanship)
   - [Company Growth](#company-growth)
-- [Podcast](#podcast)
-  - [Movies](#movies)
 - [Videos](#videos)
   - [C++](#c)
   - [Platform](#platform)
@@ -29,14 +25,6 @@
 
 - [Figma blog: Rate limiting](https://blog.figma.com/an-alternative-approach-to-rate-limiting-f8a06cf7c94c): Network Policy, Rate limit
 
-### General Problem Solving
-
-- [The XY Problem](http://xyproblem.info/)
-
-### Functional Programming
-
-- [In-depth Functional Programming in C++](https://www.gamasutra.com/view/news/169296/Indepth_Functional_programming_in_C.php) : FP, C++
-
 ### Scripting
 
 - [Splitting Strings](https://chriszetter.com/blog/2017/10/29/splitting-strings/): Python, Ruby, Awk
@@ -46,7 +34,6 @@
 
 - [The Most Respectful Interpretation](https://www.farnamstreetblog.com/2017/01/most-respectful-interpretation/): Code Review
 - [At Some Point, You Have to Eat The Broccoli](https://www.farnamstreetblog.com/2016/10/eat-the-broccoli/)
-- [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
 - [How to Do Code Reviews Like a Human (Part One)](https://mtlynch.io/human-code-reviews-1/): Code Review
 - [How to Do Code Reviews Like a Human (Part Two)](https://mtlynch.io/human-code-reviews-2/): Code Review
 - [The Senior Engineer’s Guide to Helping Others Make Decisions](http://silverwraith.com/blog/2017/10/the-senior-engineers-guide-to-helping-others-make-decisions/): Mentoring
@@ -59,12 +46,6 @@
 ### Company Growth
 
 - [Finding Great Developers](https://www.joelonsoftware.com/2006/09/06/finding-great-developers-2/): Recruitment
-
-## Podcast
-
-### Movies
-
-- [Bill Simmons podcast: Michael B. Jordan](https://soundcloud.com/the-bill-simmons-podcast/ep-31-michael-b-jordan-1) : Creed, Rocky, Michael B. Jordan
 
 ## Videos
 
@@ -80,6 +61,7 @@
 ### Interview
 
 - [How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft](https://youtu.be/YJZCUhxNCv8) : Interview Prep
+- [ABC: Always Be Coding](https://medium.com/always-be-coding/abc-always-be-coding-d5f8051afce2): Primer, Guide
 
 ### Edification
 
